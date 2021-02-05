@@ -1,0 +1,1 @@
+This is a basic site built for a Motorcycle Parts picker who buys and sells parts.  This is an excercise in working with a client, creating a responsive website, and building clean looking html and css.
