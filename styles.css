@@ -41,7 +41,7 @@ body{
 
 /* Title */
 #title {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/IMG_5065.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/hcdvjskuh/image/upload/v1612558293/IMG_5065_hsbwvv.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
