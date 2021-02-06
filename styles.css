@@ -41,7 +41,7 @@ body{
 
 /* Title */
 #title {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/IMG_5065.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://res.cloudinary.com/hcdvjskuh/image/upload/v1612558293/IMG_5065_hsbwvv.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -86,12 +86,13 @@ body{
   position: relative;
 }
 
-.title-row{
-
-}
-
 .download-btn {
   margin: 18px 18px 18px 0;
+}
+
+.email-download-btn {
+  margin: 16px 18px 18px 0;
+  padding: 3px 8px;
 }
 
 @media (max-width: 1028px) {
@@ -131,17 +132,17 @@ body{
 }
 
 /* Testimonials */
-#testimonials {
+#carousel {
   background-color: #000000;
   color: #ffffff;
   padding: 5%;
   text-align: center;
 }
 
-.testimonial-image {
+.carousel-image {
   width: 30rem;
-  border-radius: 10%;
-  padding: 20px;
+  border-radius: 2%;
+  padding: 5px;
 }
 
 .testimonial-text {
@@ -153,31 +154,18 @@ body{
   text-align: center;
 }
 
-#press {
-  background-color: #000000;
-  text-align: center;
-  padding-bottom: 50px;
-}
-
 .carousel-item {
   padding: 20px;
 }
 
-.press-box {
-  padding: 15px 15px 15px 15px;
-}
 
-.press-logo {
-  width: 55%;
-}
-
-/* Pricing */
-#pricing {
+/* Contact */
+#contact {
   text-align: center;
   padding: 100px;
 }
 
-.Pricing-Header {
+.contact-header {
   color: #000;
   font-size: 2rem;
   line-height: 1.5;
@@ -196,21 +184,10 @@ body{
   text-align: center;
 }
 
-.price-amount {
-  font-size: 2rem;
-  line-height: 1.5;
-  font-weight: 900;
+.card-body {
   text-align: center;
 }
 
-/* Call to Action */
-#cta {
-  text-align: center;
-  padding: 7% 15%;
-  background-color: #000000;
-  width: 100%;
-  color: #ffffff;
-}
 
 /* Footer */
 #footer {
