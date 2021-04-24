@@ -138,7 +138,8 @@ body{
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color: blue;
+  /* color: #ef4c70; */
 }
 
 /* Testimonials */
